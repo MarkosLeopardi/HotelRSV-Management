@@ -3,6 +3,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li><a href="#about-the-project">About The Project</a></li>
+    <li><a href="#database">Database</a></li>
     <li><a href="#SQL-FUNCTIONS">SQL Functions</a></li>
     <li><a href="#intercode">Interface Code</a></li>
     <li><a href="#interface">Interface</a></li>
@@ -39,20 +40,20 @@ The "Log Table" is the table that serves the need for a log file. It consists of
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SQL FUNCTIONS-->
-## SQL FUNCTIONS
+## SQL Functions
 To maintain database security through the interface, table or column names are not mentioned in the code. Instead, appropriate procedures called functions are stored in the database. These functions are invoked in the code to execute corresponding actions.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- INTERFACE CODE -->
-## INTERFACE CODE
+## Interface Code
 
 The interface code is written in Java Swing using the NetBeans program. It consists of a main class where methods for interface operations are written and a DateSelectionHandler class that displays the date selection table for creating a new reservation.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- INTERFACE -->
-## INTERFACE
+## Interface
 The user interface consists of 4 screens, and screen switching is done through tabs at the top of the screen. The screens are as follows:
 
 "Check IN" is the screen where information is entered to create a new reservation using text boxes, radio buttons, and pop-ups for dates.
