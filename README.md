@@ -52,7 +52,7 @@ The interface code is written in Java Swing using the NetBeans program. It consi
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- INTERFACE -->
+<!-- intercode -->
 ## Interface
 The user interface consists of 4 screens, and screen switching is done through tabs at the top of the screen. The screens are as follows:
 
