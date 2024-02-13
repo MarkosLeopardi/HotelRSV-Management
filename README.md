@@ -7,7 +7,7 @@
     <li><a href="#about-the-project">About The Project</a></li>
     <li><a href="#database">Database</a></li>
     <li><a href="#SQL-FUNCTIONS">SQL Functions</a></li>
-    <li><a href="#intercode">Interface Code</a></li>
+    <li><a href="#Interface-Code">Interface Code</a></li>
     <li><a href="#interface">Interface</a></li>
   </ol>
 </details>
